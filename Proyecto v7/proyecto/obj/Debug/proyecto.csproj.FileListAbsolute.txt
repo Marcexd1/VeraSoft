@@ -1,0 +1,55 @@
+C:\Users\marce\source\repos\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\marce\source\repos\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\marce\source\repos\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\marce\source\repos\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.csproj.SuggestedBindingRedirects.cache
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.FrMain.resources
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.FrMainStock.resources
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.exe
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.pdb
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\bin\Debug\proyecto.exe
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\bin\Debug\proyecto.pdb
+C:\Users\AGSV1\OneDrive\Escritorio\proyecto\proyecto\obj\Debug\proyecto.FrPedidos.resources
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.FrMain.resources
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.FrMainStock.resources
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.FrPedidos.resources
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.exe
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Lucas\Desktop\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Lucas\Desktop\proyecto\bin\Debug\proyecto.exe
+C:\Users\Lucas\Desktop\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\Lucas\Desktop\proyecto\obj\Debug\proyecto.PedidosV2.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.Form2.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.FrMain.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.FrMainStock.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.FrPedidos.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.PedidosV2.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.exe
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\bin\Debug\proyecto.exe
+C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\bin\Debug\proyecto.pdb
