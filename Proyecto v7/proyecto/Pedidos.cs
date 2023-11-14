@@ -91,7 +91,7 @@ namespace proyecto
         private void button1_Click(object sender, EventArgs e)
         {
             this.Hide();
-            FrMainStock frm = new FrMainStock();
+            PedidosV2 frm = new PedidosV2();
             frm.Show();
             this.Hide();
 

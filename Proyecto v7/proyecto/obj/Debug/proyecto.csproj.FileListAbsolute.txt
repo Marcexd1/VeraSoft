@@ -53,3 +53,16 @@ C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\obj\Debug\proyecto.pdb
 C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\bin\Debug\proyecto.exe.config
 C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\bin\Debug\proyecto.exe
 C:\Users\Usuario\Desktop\Proyectoo\Proyecto V6\proyecto\bin\Debug\proyecto.pdb
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.Form1.resources
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.FrPedidos.resources
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.PedidosV2.resources
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.Properties.Resources.resources
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.csproj.GenerateResource.cache
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.exe
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.pdb
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\obj\Debug\proyecto.InterfazPrincipal.resources
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\bin\Debug\proyecto.exe.config
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\bin\Debug\proyecto.exe
+C:\Users\Usuario\Desktop\Proyectoo\PROYECTO VERAMANAGGER\VeraSoft\Proyecto v7\proyecto\bin\Debug\proyecto.pdb

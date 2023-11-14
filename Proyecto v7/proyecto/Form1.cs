@@ -17,12 +17,12 @@ namespace proyecto
 
         private void button1_Click(object sender, EventArgs e)
         {
-        
+            MessageBox.Show("a");
         }
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FrMainStock frmS = new FrMainStock();
+            FrPedidos frmS = new FrPedidos();
             frmS.Show();
 
         }
@@ -34,7 +34,14 @@ namespace proyecto
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            FrMainStock frmS = new FrMainStock();
+            FrPedidos frmS = new FrPedidos();
+            frmS.Show();
+        }
+
+
+        private void btnInterfazGO_Click(object sender, EventArgs e)
+        {
+            InterfazPrincipal frmS = new InterfazPrincipal();
             frmS.Show();
         }
     }

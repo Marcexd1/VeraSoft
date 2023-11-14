@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace proyecto
 {
-    internal class Class1
+    internal class Conexion
     {
     }
 }

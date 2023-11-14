@@ -61,11 +61,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form2.cs">
+    <Compile Include="InterfazPrincipal.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form2.Designer.cs">
-      <DependentUpon>Form2.cs</DependentUpon>
+    <Compile Include="InterfazPrincipal.Designer.cs">
+      <DependentUpon>InterfazPrincipal.cs</DependentUpon>
     </Compile>
     <Compile Include="Models\WindowsFormsEntities.cs" />
     <Compile Include="Encrypt.cs" />
@@ -74,18 +74,6 @@
     </Compile>
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrMainStock.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrMainStock.Designer.cs">
-      <DependentUpon>FrMainStock.cs</DependentUpon>
-    </Compile>
-    <Compile Include="FrMain.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="FrMain.Designer.cs">
-      <DependentUpon>FrMain.cs</DependentUpon>
     </Compile>
     <Compile Include="Objetos\Program.cs" />
     <Compile Include="Pedidos.cs">
@@ -104,14 +92,8 @@
     <EmbeddedResource Include="Form1.resx">
       <DependentUpon>Form1.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Form2.resx">
-      <DependentUpon>Form2.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrMain.resx">
-      <DependentUpon>FrMain.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="FrMainStock.resx">
-      <DependentUpon>FrMainStock.cs</DependentUpon>
+    <EmbeddedResource Include="InterfazPrincipal.resx">
+      <DependentUpon>InterfazPrincipal.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Pedidos.resx">
       <DependentUpon>Pedidos.cs</DependentUpon>
@@ -127,6 +109,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -141,7 +124,9 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <None Include="Resources\Barra Vertical.png" />
+  </ItemGroup>
   <ItemGroup>
     <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
       <Visible>False</Visible>
@@ -153,6 +138,12 @@
       <ProductName>.NET Framework 3.5 SP1</ProductName>
       <Install>false</Install>
     </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Ajustes.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BotonDeselected.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

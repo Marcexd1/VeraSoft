@@ -10,16 +10,11 @@ using System.Windows.Forms;
 
 namespace proyecto
 {
-    public partial class Form2 : Form
+    public partial class InterfazPrincipal : Form
     {
-        public Form2()
+        public InterfazPrincipal()
         {
             InitializeComponent();
-        }
-
-        private void Form2_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
