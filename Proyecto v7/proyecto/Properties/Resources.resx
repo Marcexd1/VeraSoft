@@ -118,13 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="BotonDeselected" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\BotonDeselected.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Mostrando Contra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Mostrando Contra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="Barra Vertical" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Barra Vertical.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="Ajustes" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\Ajustes.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="BotonDeselected" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\BotonDeselected.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="Login Diseño" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Login Diseño.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="Ocultando Contra" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\Ocultando Contra.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

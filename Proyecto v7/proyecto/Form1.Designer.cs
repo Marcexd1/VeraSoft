@@ -29,21 +29,22 @@
         private void InitializeComponent()
         {
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
-            this.User = new System.Windows.Forms.TextBox();
+            this.txtUser = new System.Windows.Forms.TextBox();
             this.Contra = new System.Windows.Forms.TextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.label2 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
             this.button2 = new System.Windows.Forms.Button();
             this.btnInterfazGO = new System.Windows.Forms.Button();
+            this.btnOtroLogin = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // User
+            // txtUser
             // 
-            this.User.Location = new System.Drawing.Point(115, 37);
-            this.User.Name = "User";
-            this.User.Size = new System.Drawing.Size(202, 20);
-            this.User.TabIndex = 0;
+            this.txtUser.Location = new System.Drawing.Point(115, 37);
+            this.txtUser.Name = "txtUser";
+            this.txtUser.Size = new System.Drawing.Size(202, 20);
+            this.txtUser.TabIndex = 0;
             // 
             // Contra
             // 
@@ -117,18 +118,29 @@
             this.btnInterfazGO.UseVisualStyleBackColor = false;
             this.btnInterfazGO.Click += new System.EventHandler(this.btnInterfazGO_Click);
             // 
+            // btnOtroLogin
+            // 
+            this.btnOtroLogin.Location = new System.Drawing.Point(171, 69);
+            this.btnOtroLogin.Name = "btnOtroLogin";
+            this.btnOtroLogin.Size = new System.Drawing.Size(75, 23);
+            this.btnOtroLogin.TabIndex = 7;
+            this.btnOtroLogin.Text = "Login 2.0";
+            this.btnOtroLogin.UseVisualStyleBackColor = true;
+            this.btnOtroLogin.Click += new System.EventHandler(this.btnOtroLogin_Click);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(393, 183);
+            this.Controls.Add(this.btnOtroLogin);
             this.Controls.Add(this.btnInterfazGO);
             this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Controls.Add(this.Contra);
-            this.Controls.Add(this.User);
+            this.Controls.Add(this.txtUser);
             this.Name = "Form1";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Form1";
@@ -140,13 +152,14 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox User;
+        private System.Windows.Forms.TextBox txtUser;
         private System.Windows.Forms.TextBox Contra;
         private System.Windows.Forms.Label label1;
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.Button button1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button btnInterfazGO;
+        private System.Windows.Forms.Button btnOtroLogin;
     }
 }
 
