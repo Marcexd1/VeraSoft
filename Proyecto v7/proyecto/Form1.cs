@@ -28,7 +28,7 @@ namespace proyecto
 
             if (!string.IsNullOrEmpty(usuario))
             {
-                // Conectar a la base de datos utilizando la instancia de conex
+                // Conectar a la base de datos utilizando conex
                 using (MySqlConnection connection = ConexionDB.GetConnection())
                 {
                     try
@@ -76,7 +76,7 @@ namespace proyecto
 
         private void User_TextChanged(object sender, EventArgs e)
         {
-            // Puedes realizar acciones relacionadas con el cambio de texto en el control User.
+            
         }
 
         private void btnOtroLogin_Click(object sender, EventArgs e)
