@@ -18,8 +18,6 @@ namespace proyecto
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            // No es recomendable abrir la conexión en el evento Load del formulario.
-            // La conexión debería abrirse solo cuando sea necesario.
         }
 
         private void button1_Click(object sender, EventArgs e)
@@ -28,7 +26,7 @@ namespace proyecto
 
             if (!string.IsNullOrEmpty(usuario))
             {
-                // Conectar a la base de datos utilizando conex
+                // Conectar a la base de datos utilizando la instancia de conex
                 using (MySqlConnection connection = ConexionDB.GetConnection())
                 {
                     try
@@ -58,13 +56,13 @@ namespace proyecto
 
         private void button2_Click(object sender, EventArgs e)
         {
-            FrPedidos frmS = new FrPedidos();
+            PedidosV2 frmS = new PedidosV2();
             frmS.Show();
         }
 
         private void button2_Click_1(object sender, EventArgs e)
         {
-            FrPedidos frmS = new FrPedidos();
+            PedidosV2 frmS = new PedidosV2();
             frmS.Show();
         }
 
@@ -76,7 +74,7 @@ namespace proyecto
 
         private void User_TextChanged(object sender, EventArgs e)
         {
-            
+            // Puedes realizar acciones relacionadas con el cambio de texto en el control User.
         }
 
         private void btnOtroLogin_Click(object sender, EventArgs e)

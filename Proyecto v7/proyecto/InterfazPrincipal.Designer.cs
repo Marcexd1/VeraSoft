@@ -89,7 +89,7 @@
             this.btnIngresarDatos.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnIngresarDatos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DodgerBlue;
             this.btnIngresarDatos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnIngresarDatos.Font = new System.Drawing.Font("Lilita One", 20F);
+            this.btnIngresarDatos.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
             this.btnIngresarDatos.ForeColor = System.Drawing.Color.White;
             this.btnIngresarDatos.Location = new System.Drawing.Point(0, 202);
             this.btnIngresarDatos.Name = "btnIngresarDatos";
@@ -97,6 +97,7 @@
             this.btnIngresarDatos.TabIndex = 4;
             this.btnIngresarDatos.Text = "Ingresar Datos";
             this.btnIngresarDatos.UseVisualStyleBackColor = true;
+            this.btnIngresarDatos.Click += new System.EventHandler(this.btnIngresarDatos_Click);
             // 
             // btnMostrarDatos
             // 
@@ -108,7 +109,7 @@
             this.btnMostrarDatos.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnMostrarDatos.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DodgerBlue;
             this.btnMostrarDatos.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMostrarDatos.Font = new System.Drawing.Font("Lilita One", 20F);
+            this.btnMostrarDatos.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
             this.btnMostrarDatos.ForeColor = System.Drawing.Color.White;
             this.btnMostrarDatos.Location = new System.Drawing.Point(0, 278);
             this.btnMostrarDatos.Name = "btnMostrarDatos";
@@ -127,7 +128,7 @@
             this.btnSalir.FlatAppearance.MouseDownBackColor = System.Drawing.Color.FromArgb(((int)(((byte)(192)))), ((int)(((byte)(255)))), ((int)(((byte)(255)))));
             this.btnSalir.FlatAppearance.MouseOverBackColor = System.Drawing.Color.DodgerBlue;
             this.btnSalir.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnSalir.Font = new System.Drawing.Font("Lilita One", 20F);
+            this.btnSalir.Font = new System.Drawing.Font("Microsoft Sans Serif", 20F);
             this.btnSalir.ForeColor = System.Drawing.Color.White;
             this.btnSalir.Location = new System.Drawing.Point(0, 354);
             this.btnSalir.Name = "btnSalir";

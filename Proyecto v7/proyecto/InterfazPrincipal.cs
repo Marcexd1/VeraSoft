@@ -16,5 +16,10 @@ namespace proyecto
         {
             InitializeComponent();
         }
+
+        private void btnIngresarDatos_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

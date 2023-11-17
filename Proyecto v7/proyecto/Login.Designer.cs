@@ -49,7 +49,7 @@
             this.btnIniciar.FlatAppearance.BorderColor = System.Drawing.Color.Red;
             this.btnIniciar.FlatAppearance.BorderSize = 0;
             this.btnIniciar.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnIniciar.Font = new System.Drawing.Font("Lilita One", 30F);
+            this.btnIniciar.Font = new System.Drawing.Font("Microsoft Sans Serif", 30F);
             this.btnIniciar.ForeColor = System.Drawing.Color.White;
             this.btnIniciar.Location = new System.Drawing.Point(195, 227);
             this.btnIniciar.Name = "btnIniciar";
@@ -57,11 +57,12 @@
             this.btnIniciar.TabIndex = 0;
             this.btnIniciar.Text = " Iniciar";
             this.btnIniciar.UseVisualStyleBackColor = true;
+            this.btnIniciar.Click += new System.EventHandler(this.btnIniciar_Click);
             // 
             // txtUser
             // 
             this.txtUser.BackColor = System.Drawing.SystemColors.Window;
-            this.txtUser.Font = new System.Drawing.Font("Lilita One", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtUser.Location = new System.Drawing.Point(139, 129);
             this.txtUser.Name = "txtUser";
             this.txtUser.Size = new System.Drawing.Size(220, 20);
@@ -69,22 +70,23 @@
             // 
             // txtPassWord
             // 
-            this.txtPassWord.Font = new System.Drawing.Font("Lilita One", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.txtPassWord.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.txtPassWord.ForeColor = System.Drawing.SystemColors.WindowText;
             this.txtPassWord.Location = new System.Drawing.Point(139, 183);
             this.txtPassWord.Name = "txtPassWord";
             this.txtPassWord.Size = new System.Drawing.Size(220, 20);
             this.txtPassWord.TabIndex = 2;
+            this.txtPassWord.TextChanged += new System.EventHandler(this.txtPassWord_TextChanged);
             // 
             // lblPassWord
             // 
             this.lblPassWord.AutoSize = true;
             this.lblPassWord.BackColor = System.Drawing.Color.Transparent;
-            this.lblPassWord.Font = new System.Drawing.Font("Lilita One", 14F);
+            this.lblPassWord.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.lblPassWord.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.lblPassWord.Location = new System.Drawing.Point(29, 180);
             this.lblPassWord.Name = "lblPassWord";
-            this.lblPassWord.Size = new System.Drawing.Size(109, 22);
+            this.lblPassWord.Size = new System.Drawing.Size(111, 24);
             this.lblPassWord.TabIndex = 3;
             this.lblPassWord.Text = "Contraseña:";
             // 
@@ -92,11 +94,11 @@
             // 
             this.lblUser.AutoSize = true;
             this.lblUser.BackColor = System.Drawing.Color.Transparent;
-            this.lblUser.Font = new System.Drawing.Font("Lilita One", 14F);
+            this.lblUser.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F);
             this.lblUser.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.lblUser.Location = new System.Drawing.Point(59, 127);
             this.lblUser.Name = "lblUser";
-            this.lblUser.Size = new System.Drawing.Size(79, 22);
+            this.lblUser.Size = new System.Drawing.Size(79, 24);
             this.lblUser.TabIndex = 4;
             this.lblUser.Text = "Usuario:";
             // 
@@ -104,11 +106,11 @@
             // 
             this.label1.AutoSize = true;
             this.label1.BackColor = System.Drawing.Color.Transparent;
-            this.label1.Font = new System.Drawing.Font("Lilita One", 45F);
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 45F);
             this.label1.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(0)))), ((int)(((byte)(64)))));
             this.label1.Location = new System.Drawing.Point(30, 26);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(377, 68);
+            this.label1.Size = new System.Drawing.Size(390, 69);
             this.label1.TabIndex = 6;
             this.label1.Text = "Iniciar Secion";
             // 
